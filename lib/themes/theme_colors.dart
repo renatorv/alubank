@@ -11,6 +11,8 @@ class ThemeColors {
   static const recentActivity = {
     'spent': Color.fromRGBO(255, 175, 29, 1),
     'income': Color.fromRGBO(191, 69, 198, 1),
+    'free': Color.fromARGB(255, 235, 0, 43),
+    'streaming': Color.fromARGB(255, 0, 20, 236),
   };
 
   static const division = Color.fromRGBO(166, 166, 166, 1);

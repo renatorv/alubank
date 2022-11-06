@@ -21,3 +21,6 @@ Themes:
 
 https://m2.material.io/design/typography/the-type-system.html#type-scale
 "# alubank" 
+
+InkWell
+https://api.flutter.dev/flutter/material/InkWell-class.html
